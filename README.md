@@ -1,2 +1,8 @@
 # clear-console
-Make your console as clear as a cloud free sky
+Like other console clearing modules but it works on my machine.
+
+## usage
+```
+var clear = require('clear-console');
+clear()
+```
